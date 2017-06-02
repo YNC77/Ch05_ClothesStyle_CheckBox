@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ch05_ClothesStyle_CheckBox</string>
+    <string name="question1">What style do you usually wear?</string>
+    <string name="style1">Trendy</string>
+    <string name="style2">Casual</string>
+    <string name="style3">Exotic</string>
+    <string name="style4">Sexy</string>
+    <string name="style5">Preppy</string>
+    <string name="style6">Elegant</string>
+    <string name="style7">Bohemian</string>
+    <string name="style8">Girly</string>
+    <string name="style9">Tomboy</string>
+    <string name="btnAns">Thanks for your answer, \nPLEASE CLICK!</string>
+    <string name="showAns">Please Choose</string>
+</resources>
